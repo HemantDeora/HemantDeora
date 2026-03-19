@@ -1,16 +1,57 @@
-## Hi there 👋
+# 👋 Hi, I'm Hemant Deora
 
-<!--
-**HemantDeora/HemantDeora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BCA Student  
+💻 Aspiring Java Full Stack Developer  
+🚀 Currently learning Spring Boot, Hibernate & REST APIs  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥 About Me
+- 🌱 Learning Java Full Stack Development  
+- 💡 Interested in Backend Development  
+- 🛠 Building real-world projects using Hibernate & MySQL  
+- 🎯 Goal: Become a professional Software Developer  
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+- Java  
+- SQL  
+- JavaScript  
+
+### ⚙️ Technologies
+- Hibernate  
+- JDBC  
+- Spring Boot (Learning)  
+
+### 🌐 Web
+- HTML  
+- CSS  
+
+### 🗄️ Database
+- MySQL  
+
+
+
+## 📈 Currently Learning
+- Spring Boot  
+- REST APIs  
+- Advanced Java  
+
+---
+
+## 📊 GitHub Stats
+
+![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemantDeora&show_icons=true&theme=radical)
+
+---
+
+## 📫 Connect With Me
+- 📧 Email: hemantdeora923@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/hemant-kumar-deora-858b622a2/ 
+
+---
+
+⭐️ From [Hemant Deora](https://github.com/HemantDeora)
