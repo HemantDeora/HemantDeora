@@ -1,56 +1,67 @@
 # 👋 Hi, I'm Hemant Deora
 
-🎓 BCA Student  
-💻 Aspiring Java Full Stack Developer  
-🚀 Currently learning Spring Boot, Hibernate & REST APIs  
+🎓 BCA Student
+💻 Aspiring Java Full Stack Developer
+🚀 Currently learning Spring Boot, Hibernate & REST APIs
 
 ---
 
 ## 🔥 About Me
-- 🌱 Learning Java Full Stack Development  
-- 💡 Interested in Backend Development  
-- 🛠 Building real-world projects using Hibernate & MySQL  
-- 🎯 Goal: Become a professional Software Developer  
+
+* 🌱 Learning Java Full Stack Development
+* 💡 Interested in Backend Development
+* 🛠 Building real-world projects using Hibernate & MySQL
+* 🎯 Goal: Become a professional Software Developer
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
-- Java  
-- SQL  
-- JavaScript  
+
+* Java
+* SQL
+* JavaScript
 
 ### ⚙️ Technologies
-- Hibernate  
-- JDBC  
-- Spring Boot (Learning)  
+
+* Hibernate
+* JDBC
+* Spring Boot (Learning)
 
 ### 🌐 Web
-- HTML  
-- CSS  
+
+* HTML
+* CSS
 
 ### 🗄️ Database
-- MySQL  
 
+* MySQL
 
+---
 
 ## 📈 Currently Learning
-- Spring Boot  
-- REST APIs  
-- Advanced Java  
+
+* Spring Boot
+* REST APIs
+* Advanced Java
 
 ---
 
 ## 📊 GitHub Stats
 
-![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
+![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemantDeora\&show_icons=true\&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HemantDeora\&layout=compact\&theme=radical)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=HemantDeora\&theme=radical)
 
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: hemantdeora923@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/hemant-kumar-deora-858b622a2/ 
+
+* 📧 Email: [hemantdeora923@gmail.com](mailto:hemantdeora923@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/hemant-kumar-deora-858b622a2/
 
 ---
 
