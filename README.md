@@ -44,7 +44,7 @@
 
 ## 📊 GitHub Stats
 
-![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=HemantDeora&show_icons=true&theme=radical)
+![Hemant's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
 
 ---
 
