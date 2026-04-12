@@ -34,6 +34,7 @@
 * HTML
 * CSS
 * React
+* Node Js
   
 
 ### 🗄️ Database
