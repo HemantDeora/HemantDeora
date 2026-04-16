@@ -28,6 +28,8 @@
 * Hibernate
 * JDBC
 * Spring Boot (Learning)
+* Rest Api
+* Microservices
 
 ### 🌐 Web
 
