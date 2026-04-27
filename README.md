@@ -36,6 +36,7 @@
 * HTML
 * CSS
 * React
+* Tailwindcss
 
   
 
